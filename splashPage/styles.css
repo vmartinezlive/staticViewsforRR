@@ -1,6 +1,3 @@
-container {
-  background-color:n
-}
 .topPhoto {
   display: block;
   margin-top: 75px;
@@ -23,10 +20,11 @@ body {
 }
 
 .buttons {
- color: black;
- position:absolute;
- width: 180px;
- height: 80px;
- margin-left: 25px;
- bottom:25px;
+  color: black;
+  position:absolute;
+  width: 180px;
+  height: 80px;
+  /* margin-left: 25px; */
+  bottom:25px;
+
 }
