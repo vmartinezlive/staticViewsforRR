@@ -1,0 +1,21 @@
+body {
+  background: radial-gradient( circle, transparent 50%, black 150%), #146E20;
+  height: 180px;
+
+}
+
+.mainLogo {
+  display: center;
+  margin-top: 75px;
+  margin-left: 500px;
+  margin-right: 600px;
+  width: 20%;
+}
+
+.buttons {
+  position:absolute;
+  width: 500px;
+  height: 80px;
+  margin-left: 575px;
+  bottom:25px;
+}
