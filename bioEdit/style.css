@@ -1,0 +1,71 @@
+body {
+  background: radial-gradient( circle, transparent 50%, black 150%), #146E20;
+  height: 180px;
+
+}
+
+.mainLogo {
+  display: center;
+  margin-top: 75px;
+  margin-left: 500px;
+  margin-right: 600px;
+  width: 20%;
+}
+
+textarea {
+  margin-top: 20px;
+  border: none;
+  border-radius: 1px;
+  height: 300px;
+  width: 620px;
+  float: right;
+  margin-left: 150px;
+}
+
+h4 {
+  text-align: center;
+  color: #ECBD32;
+  font-family:sans-serif;
+}
+
+.card {
+  margin-top: 20px;
+  float: left;
+  margin-left: 150px;
+}
+
+.price {
+  text-align: center;
+  color: black;
+  margin-top: 25px;
+  margin-left: 75px;
+  margin-right: 75px;
+  font-size: 25px;
+}
+
+.priceRange {
+font-size: 16px;
+color: #ECBD32;
+}
+
+.distance{
+  text-align: center;
+  color: black;
+  margin-top: 25px;
+  margin-left: 75px;
+  margin-right: 75px;
+  font-size: 25px;
+}
+
+.distanceRange {
+font-size: 16px;
+color: #ECBD32;
+}
+
+.buttons {
+  position:absolute;
+  width: 500px;
+  height: 80px;
+  margin-left: 575px;
+  bottom:25px;
+}

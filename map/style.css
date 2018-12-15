@@ -11,23 +11,24 @@ body {
   margin-right: 600px;
   width: 20%;
 }
- .col-sm-2 col-form-label {
-   color: #F1D417;
-  }
 
-.row {
-
-  float: block;
-  margin-left: 200px;
-  margin-right: 100px;
-  border-radius: 2px
-
+#header {
+  margin-top: 50px;
+  margin-left: 520px;
 }
+
+.map {
+  margin-top: 25px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+
 
 .buttons {
   position:absolute;
   width: 500px;
   height: 80px;
-  margin-left: 1050px;
+  margin-left: 550px;
   bottom:25px;
 }
